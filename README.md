@@ -1,5 +1,5 @@
 # AutoDS System
-
+[![Start Using AutoDS](https://img.shields.io/badge/Try%20AutoDS-Start%20Now-blue)](http://47.115.222.218/)
 Welcome to **AutoDS System** — an intelligent, autonomous research agent for digital medical studies.
 
 
