@@ -2,13 +2,11 @@
 
 Welcome to **AutoDS System** — an intelligent, autonomous research agent for digital medical studies.
 
----
 
 ## 🩺 Introduction
 
 AutoDS is an **LLM-driven research agent** that autonomously conducts digital medical research. It dynamically designs experiments, analyzes data, and refines strategies — all within a **secure computational sandbox**.
 
----
 
 ## ✨ Key Features
 
@@ -35,7 +33,6 @@ AutoDS is an **LLM-driven research agent** that autonomously conducts digital me
   - Stepwise, iterative design clearly deconstructs decision logic.
   - Enables human oversight and intervention when necessary.
 
----
 
 ## 🚀 User Guide
 
@@ -47,14 +44,12 @@ AutoDS is an **LLM-driven research agent** that autonomously conducts digital me
    - Select datasets used by AutoDS.
    - View all files in the workspace.
 
----
 
 ## ⚠️ Notes
 
 - If the system is idle for **30 minutes**, it will automatically shut down.
 - **Do not refresh the page** — this will erase your conversation.
 
----
 
 ## 🧠 Key Sections
 
@@ -75,7 +70,6 @@ AutoDS uses an internal structure for each cycle:
 - **Speak**  
   Information on the next action.
 
----
 
 ## 📂 Dataset Description
 
@@ -95,4 +89,3 @@ AutoDS ships with a sample dataset:
 
 > *Images are organized into folders, with filenames containing the corresponding label.*
 
----
