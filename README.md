@@ -54,7 +54,7 @@ AutoDS is an **LLM-driven research agent** that autonomously conducts digital me
 
 <p align="center">
   <a href="http://47.115.222.218/">
-    <img src="https://img.shields.io/badge/🚀 Click_here_to_start_testing-blue?style=for-the-badge" alt="Start Testing">
+    <img src="https://img.shields.io/badge/🚀 Click_here_to_start_testing-blue?style=for-the-badge" width="400" alt="Start Testing">
   </a>
 </p>
 
