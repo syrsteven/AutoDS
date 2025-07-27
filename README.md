@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/logo.jpg" alt="AutoDS Logo" width="200"/>
+</p>
+
 # AutoDS System 
 
 Welcome to **AutoDS System** — an intelligent, autonomous research agent for digital medical studies.
@@ -39,7 +43,7 @@ AutoDS is an **LLM-driven research agent** that autonomously conducts digital me
 ![](images/screenshot1.png)
 2. AutoDS operates in a step-by-step manner. You can input suggestion and click the **"Send"** button, and AutoDS will continue to the next step of reasoning and execution based on your input. Alternatively, you can skip giving any feedback and simply click the **"Next Step"** button to proceed.
 ![](images/screenshot2.png)
-3. If you want to upload the dataset to the workspace of AutoDS, please select the **“slit_lamp_dataset”** folder. It’s recommended to input a brief description of the dataset to help AutoDS understand the basic information of the folder you upload. Here is a recommended prompt for you: **The dataset "slit_lamp_dataset" consisted of 3,064 slit-lamp photographs, including 776 images of normal lenses, 1,144 images of cataracts with varying severity and etiology, and 1,144 images of postoperative eyes. The images were organized into folders, with each filename containing the corresponding label.**
+3. If you want to upload the dataset to the workspace of AutoDS, please select the **“slit_lamp_dataset”** folder. It’s recommended to input a brief description of the dataset to help AutoDS understand the basic information of the folder you upload. In accordance with data security and patient privacy protection principles, you are not allowed to download the dataset or upload other data for testing.
 ![](images/screenshot5.png) 
 4. When AutoDS is running the code, its status will be indicated, **please wait for it to finish running before entering any commands or proceeding to the next step.** Your patience is appreciated.
 ![](images/screenshot3.png)
