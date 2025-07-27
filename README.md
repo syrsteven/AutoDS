@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="images/logo.jpg" alt="AutoDS Logo" width="200"/>
+  <img src="images/logo.jpg" alt="AutoDS Logo" width="400"/>
 </p>
 
-# AutoDS System 
 
 Welcome to **AutoDS System** — an intelligent, autonomous research agent for digital medical studies.
 
